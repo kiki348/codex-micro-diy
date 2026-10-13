@@ -8,6 +8,10 @@ ESP32-S3 N16R8 · 12 个按键 · EC11 旋钮 · 双轴摇杆
 
 ![真实 DIY 成品](assets/keyboard.jpg)
 
+[▶ 68 秒：给 AI 装一只手柄？](https://www.bilibili.com/video/BV1CFpB6TEH2/)
+
+先看小游戏、思考旋钮、任务切换与桌宠，再看 DIY 复刻路线。视频中的原版玩法为动画重绘，本机验证范围见下文。
+
 [开始复刻](docs/01-start.md) · [硬件与 BOM](hardware/README.md) · [下载烧录包](https://github.com/kiki348/codex-micro-diy/releases) · [下载配置软件](https://github.com/kiki348/codex-micro-diy/releases)
 
 </div>
