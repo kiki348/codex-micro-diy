@@ -1,0 +1,14 @@
+{
+  "control-board": {
+    "placed_components": 42,
+    "missing_designator": 0,
+    "missing_mpn": 1,
+    "duplicate_designators": []
+  },
+  "key-board": {
+    "placed_components": 56,
+    "missing_designator": 0,
+    "missing_mpn": 19,
+    "duplicate_designators": []
+  }
+}

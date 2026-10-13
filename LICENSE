@@ -1,0 +1,7 @@
+本项目采用分目录许可，不对第三方代码、设计、商标统一重新许可。
+
+本仓库新增教程、发布工具、动画源代码：MIT，Copyright (c) 2026 kiki348。
+上游硬件：wlk6655，BSD-2-Clause，见 licenses/BSD-2-Clause-hardware.txt。
+固件：保留原文件版权头及许可范围；见 THIRD_PARTY_NOTICES.md。
+桌面软件：仅提供闭源发行包，不授予开发源码的开源许可。
+第三方依赖和字体：按其自身许可。

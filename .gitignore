@@ -1,0 +1,7 @@
+releases/
+*.zip
+*.7z
+.pio/
+node_modules/
+__pycache__/
+.DS_Store

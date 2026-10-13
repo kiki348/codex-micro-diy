@@ -1,0 +1,30 @@
+{
+  "version": "v0.18.0-diy.1",
+  "files": [
+    {
+      "name": "CodexMicro-Hardware.zip",
+      "bytes": 7215142,
+      "sha256": "9da49caec0f06a669af52fb38598ae7d31089ea76a6d7dd660ed49bd2b9090ef"
+    },
+    {
+      "name": "CodexMicro-FirstFlash-v18.zip",
+      "bytes": 9562757,
+      "sha256": "b9a2720ee0f4c590584441c9c7553f568840e73eecc71818ede7a602597d5690"
+    },
+    {
+      "name": "CodexMicro-OTA-v18.zip",
+      "bytes": 8865659,
+      "sha256": "270e7b77c64f5483bf4ce38a9a00c97c9b8d600a3c476c719d94618741336130"
+    },
+    {
+      "name": "CodexMicro-Recovery-v18.zip",
+      "bytes": 5406,
+      "sha256": "83c179c516a7a2cdb2024d33ac3f40177f673a3b15f342da82bd842c3ea8133d"
+    },
+    {
+      "name": "WorkAxis-Windows-x64.zip",
+      "bytes": 189974569,
+      "sha256": "cf851a25664353a4097564cdd0ecfa1fb749952117b2f996d80af746be9bcca5"
+    }
+  ]
+}
